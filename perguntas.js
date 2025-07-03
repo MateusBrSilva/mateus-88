@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Em que período da pré-história o fogo foi descoberto e começou a ser utilizado?',
+    'O fogo foi descoberto e começou a ser utilizado no período Paleolítico, também conhecido como Idade da Pedra Lascada.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do Canadá',
+    'A capital do Canadá é Ottawa.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Português',
+    'O que é um adjetivo?',
+    'É uma palavra que modifica um substantivo, fornecendo informações sobre suas características, qualidade, estado ou condição.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Inglês',
+    'Como se diz gostei em Inglês?',
+    'Gostei em ingles é LIKE (LAIQUI)'
 )
